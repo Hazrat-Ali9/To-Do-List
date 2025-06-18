@@ -2,7 +2,7 @@
 function saveTasksToLocalStorage(tasks) {
     localStorage.setItem('tasks', JSON.stringify(tasks));
 }
-
+// App js
 // function to get tasks from local storage
 function getTasksFromLocalStorage() {
     const tasks = localStorage.getItem('tasks');
