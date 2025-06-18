@@ -13,3 +13,5 @@ list your deily tasks
  # author
  [Hazrat Ali]()
 
+ [MIT License](LICENCE)
+
