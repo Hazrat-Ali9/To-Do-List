@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+ES:wght@100..400&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+
+body ul,
+div,
+button,
+h1 {
+    font-family: "Rubik", sans-serif;
+    color: rgb(0, 0, 0);
+}
+
+.head {
+    font-family: "Playwrite ES", cursive;
+}
+
+ul li {
+    /* background-color: rgb(32, 133, 227); */
+    margin: 10px 10px;
+    border-radius: 10px;
+    padding: 10px 10px;
+    color: rgb(0, 0, 0);
+}
+
+li button {
+    background: #d9534f;
+    border: none;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 8px;
+    ;
+    margin: 10px 10px;
+}
+
+li button:hover {
+    background: #c9302c;
+}
